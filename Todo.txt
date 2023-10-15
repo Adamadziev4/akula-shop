@@ -1,0 +1,1 @@
+нять API_URL, SITE_URL и hostname в next.config

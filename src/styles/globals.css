@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100vh;
+}
+
+#__next {
+  height: 100%;
+}
+
+/* .carousel .thumb img {
+  width: 100% !important;
+  height: 100% !important;
+} */
+
+/* .carousel .slide img {
+  max-height: 300px;
+  width: auto;
+} */
+
+/* @media (max-width: 500px) {
+  .carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .carousel .slide img {
+    min-height: 250px;
+    object-fit: fill;
+    width: auto;
+  }
+} */
+
+/* @media (min-width: 768px) {
+  .carousel .slide img {
+    max-height: 100%;
+    width: auto;
+  }
+} */

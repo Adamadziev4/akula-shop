@@ -1,0 +1,1 @@
+{"c":["pages/product/[slug]","webpack"],"r":["pages/category/[category]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5Czadam%5CDesktop%5Cakula-client%5Csrc%5Cpages%5Ccategory%5C%5Bcategory%5D.tsx&page=%2Fcategory%2F%5Bcategory%5D!","./src/pages/category/[category].tsx"]}
